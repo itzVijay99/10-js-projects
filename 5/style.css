@@ -1,0 +1,9 @@
+.time{
+    background-color: rgb(68, 61, 61);
+    padding: 100px;
+    border-radius: 20px;
+    box-shadow: 2px 2px 10px white;
+    height: 100px;
+    margin: auto;
+    border:2px solid white;
+}
